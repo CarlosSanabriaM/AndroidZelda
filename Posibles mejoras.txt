@@ -1,0 +1,18 @@
+Actividad de seleccion de dificultad:
+-Si es facil: 5 vidas iniciales - max 8
+-Si es normal: 3 vidas iniciales - max 5
+-Si es dificil: 1 vidas iniciales - max 2
+
+Mapa donde se muestren los enemigos del nivel
+
+Mejorar la IA
+
+Musica en el menu de seleccion y el inicial
+
+Nuevos tiles
+
+Mazmorras
+
+Corregir que se pintan mal los tiles de la dcha de la pantalla (al menos en mi móvil ocurre)
+
+Botón para mutear el audio de fondo
