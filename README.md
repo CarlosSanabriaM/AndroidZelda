@@ -18,3 +18,9 @@ Videojuego basado en "The Legend of Zelda", realizado para la plataforma Android
 - **El pdf *Propuesta inicial del juego*** explica la idea inicial de cómo iba a ser el videojuego.
 - **El pdf *Funcionalidad del juego*** explica la funcionalidad final: Cómo jugar, qué detalles hay, qué se ha implementado realmente, ...
 - **El txt *Posibles mejoras*** contiene una serie de posibles mejoras a realizar en el juego.
+
+
+## Cómo ejecutar la aplicación
+Abrir el proyecto con Android Studio. Es posible que al sincronizar el proyecto de algunos errores y pida actualizar algunas cosas.
+
+Cuando esté todo listo, darle al botón *Run 'app'* (el triángulo verde) y seleccionar un dispositivo móvil virtual donde probar el juego.
